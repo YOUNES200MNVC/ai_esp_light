@@ -33,4 +33,4 @@ jobs:
           tag_name: v1.0.${{ github.run_number }}
           name: AI ESP Light
           files: FFPanel/app/build/outputs/apk/debug/app-release.apk
-          make_latest: true# ai_esp_light
+          make_latest: true
